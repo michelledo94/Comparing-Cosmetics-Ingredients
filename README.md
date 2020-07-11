@@ -1,5 +1,6 @@
 # Comparing-Cosmetics-Ingredients
-Exploring ingredients of Sephora products with EDA, word embedding and T-SNE based on a guided project on DataCamp
+Exploring ingredients of Sephora products with EDA, word embedding and T-SNE based on a guided project on DataCamp.
+
 Implementation: 
 1. EDA
 2. Prep data for T-SNE modeling (tokenize ingredient lists and transform into a Document-Term Matrix)
